@@ -1,4 +1,4 @@
-### Relatório TP2
+# Relatório TP2
 ## Data: 2024-09-23
 ## Autor: Joana Maria Fernandes Campos
 ## Número de estudante: a107229
