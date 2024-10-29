@@ -121,18 +121,18 @@ def grafTabMeteo(t):
 
 
 def menu():
-    print("------------------------------ MENU DE OPÇÕES ------------------------------")
+    print("___________________________________MENU DE OPÇÕES______________________________")
     print("1: Aqui pode inserir a sua lista meterológica.")
     print("2: Nesta opção vai poder ver a sua lista meterológica.")
     print("3: Quer ver a temperatura média de cada dia? Esta é a opção perfeita.")
-    print("4: Aqui é possível guardar a tabela meteorológica num ficheiro de texto ")
-    print("5: Aqui pode carregar uma tabela meteorológica de um ficheiro de texto")
+    print("4: Aqui é possível guardar a tabela meteorológica num ficheiro de texto.")
+    print("5: Aqui pode carregar uma tabela meteorológica de um ficheiro de texto.")
     print("6: Aqui pode ser a temperatura mais baixa registada.")
     print("7: E a amplitude térmica? Esta é a sua opção.")
     print("8: Quando é que a precipitação registada teve o seu valor máximo? Aqui indicamos o valor de precipitação e a data.")
     print("9: Quer saber em que dias a precipitação foi superior a um determinado valor? Nós ajudamos.")
     print("10: Quer saber o número consecutivo de dias com precipitação abaixo de um determinado limite? Esta é a sua opção.")
-    print("11: Nesta opção desenhamos os gráficos")
+    print("11: Nesta opção desenhamos os gráficos.")
     print("0: Sair da aplicação.")
 
 lista = []
