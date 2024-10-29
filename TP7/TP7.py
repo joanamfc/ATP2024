@@ -9,6 +9,7 @@ def criarlista():
  prec = float(input("Intoduza a precipitação registada nesse dia:"))
  lista.append((data,temp_min,temp_max,prec))
  print("Operação realizada com sucesso.")
+ return 
 
 
 def verlista(tabMeteo):
